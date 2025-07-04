@@ -1,12 +1,13 @@
 <h1 align="center">👋 Hi, I'm Nicholas Tan</h1>
 
-# ❓ About Me:
-I am a senior majoring in Computer Science at Stony Brook University with a passion for full-stack development, game development, and artifical intelligence.
+# 💫 About Me:
+I am a senior majoring in Computer Science at Stony Brook University with a passion for full-stack development, game development, AI, and UI/UX design.
 
-## 🏃 Currently, I am: 
-- 📝 Crafting a portfolio website
+## 🏃 Currently, I am working on: 
+- A portfolio website
+- [WhoDat?](https://github.com/NicholasTan0/WhoDat)
 
-# 👨‍💻 My specialties:
+# 👨‍💻 My specialties are:
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)

@@ -4,8 +4,7 @@
 I am a senior majoring in Computer Science at Stony Brook University with a passion for full-stack development, game development, AI, and UI/UX design.
 
 ## 🏃 Currently, I am working on: 
-- A portfolio website
-- [WhoDat?](https://github.com/NicholasTan0/WhoDat)
+- Projects
 
 # 👨‍💻 My specialties are:
 

@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I'm Nicholas Tan</h1>
 
-# 💫 About Me:
-I am a new grad with a degree in Computer Science from Stony Brook University. Passionate in full-stack development, AI/ML, UI/UX design, and game development. Open to work.
+# About Me:
+B.S. in CS @ SBU. Passionate in full-stack development, AI/ML, UI/UX design, and game development. Open to work.
 
-# 👨‍💻 My specialties are:
+# My specialties are:
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)

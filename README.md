@@ -1,10 +1,7 @@
 <h1 align="center">👋 Hi, I'm Nicholas Tan</h1>
 
 # 💫 About Me:
-I am a senior majoring in Computer Science at Stony Brook University with a passion for full-stack development, AI/ML, UI/UX design, and game development.
-
-## 🏃 Currently, I am working on: 
-- Job hunting
+I am a new grad with a degree in Computer Science from Stony Brook University. Passionate in full-stack development, AI/ML, UI/UX design, and game development. Open to work.
 
 # 👨‍💻 My specialties are:
 
